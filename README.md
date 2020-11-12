@@ -1,4 +1,4 @@
-![](https://assets.entrepreneur.com/content/3x2/2000/20170508153359-rock.jpeg?width=700&crop=2:1)
+![](https://assets.entrepreneur.com/content/3x2/2000/20170508153359-rock.jpeg?width=100%&crop=2:1)
 
 ### Hi there 👋. I'm Daniel nice to meet you.
 
