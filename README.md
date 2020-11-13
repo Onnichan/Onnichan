@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
+  <br />
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Onnichan GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Onnichan&show_icons=true&hide_border=true&theme=synthwave" />
