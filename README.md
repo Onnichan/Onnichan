@@ -1,10 +1,7 @@
 ![](https://images.wallpapersden.com/image/download/castle-rock-poster_a2pmZmaUmZqaraWkpJRoaWdlrWZuZ2k.jpg)
 
-### Hi there 👋. I'm Daniel nice to meet you.
-
-About me
-
-#### Web developer from Tacna. I'm passionate about technology and all the possible solutions that can be made with different technologies and more. 🤘🤘
+## Hi there 👋. I'm Daniel nice to meet you.
+## Web developer from Tacna. I'm passionate about technology and all the possible solutions that can be made with different technologies and more. 🤘🤘
 
 Here are some ideas to get you started:
 
