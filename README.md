@@ -1,9 +1,9 @@
 ![](https://images.wallpapersden.com/image/download/castle-rock-poster_a2pmZmaUmZqaraWkpJRoaWdlrWZuZ2k.jpg)
 
 ## Hi there 👋. I'm Daniel nice to meet you.
-## Web developer from Tacna. I'm passionate about technology and all the possible solutions that can be made with different technologies and more. 🤘🤘
+## Web developer from Tacna, Peru. I'm passionate about technology and all the possible solutions that can be made with different technologies. 🤘🤘
 
-Here are some ideas to get you started:
+Here are some activities:
 
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning ReactJS and Angular 
