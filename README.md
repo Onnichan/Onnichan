@@ -4,7 +4,7 @@
 
 About me
 
-#### My name is Daniel, Web developer from Tacna.I am passionate about technology and all the possible solutions that can be made with different technologies and more.
+#### Web developer from Tacna. I'm passionate about technology and all the possible solutions that can be made with different technologies and more. 🤘🤘
 
 Here are some ideas to get you started:
 
