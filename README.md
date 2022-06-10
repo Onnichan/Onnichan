@@ -44,9 +44,3 @@ Here are some activities:
   <img align="left" alt="Onnichan GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Onnichan&show_icons=true&hide_border=true&theme=synthwave" />
 
 </details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/walterd20659115
-[codewars]: https://www.codewars.com/users/Dyangel
-[linkedin]: https://www.linkedin.com/in/walter-daniel-huaynapata-aguilar-391041197
